@@ -1,4 +1,4 @@
 # TensorFlow-Advanced-Techniques
-In this reposetory I will upload assignments that I have found
-interesting from the "TensorFlow: Advanced Techniques" specialization
-that is offered by Deeplearning.AI on Coursera.
+In this repository, I'll post assignments from Deeplearning.AI's <a href="https://www.coursera.org/specializations/tensorflow-advanced-techniques">"TensorFlow: Advanced Techniques"</a>
+
+specialization on Coursera that I found interesting. 
